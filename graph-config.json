@@ -18,6 +18,10 @@
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
     "graphURl-latestVersion":  "http://103.99.179.200:8200/subgraphs/name/redpacket"
 },
+"scroll-redpacket":{
+    "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
+    "graphURl-latestVersion":  "http://103.99.179.200:8300/subgraphs/name/redpacket"
+},
 "Optimism-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xCaEC4528A60ca2c47123D7946179011F8B7A7b41",
     "graphURl-latestVersion":  "https://api.studio.thegraph.com/query/55957/op_merkledistributor/version/latest"
@@ -27,8 +31,8 @@
     "graphURl-latestVersion":  "http://103.99.179.200:8000/subgraphs/name/merkledistribution"
 },
 "scroll-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0x4ADE20737690166634a96E1B0524a61051137753",
-    "graphURl-latestVersion":  "http://103.99.179.200:8000/subgraphs/name/merkledistribution"
+    "merkleDistributorFactory-address": "0x35eca762d594e734e58Fa2838EAA61A359606289",
+    "graphURl-latestVersion":  "http://103.99.179.200:8300/subgraphs/name/merkledistribution"
 },
 "arbitrum-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xF5D3668d94dcF4C2cB7bE81AD43857762695BF78",
