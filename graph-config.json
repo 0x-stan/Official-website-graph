@@ -1,6 +1,6 @@
 {"sepolia-redpacket":{
     "redpacket-address": "0x7aee9933802d9E150e8FdEDc5a022a6d386BB44d",
-    "graphURl-latestVersion":  "http://103.99.179.200:8000/subgraphs/name/redpacket"
+    "graphURl-latestVersion":  "http://43.135.22.107:8000/subgraphs/name/redpacket"
 },
 "Optimism-redpacket":{
     "redpacket-address": "0x62E8cf62Dc0B7d7afF9A1A58CeA14976fDB16a85",
@@ -16,11 +16,11 @@
 },
 "zksync-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
-    "graphURl-latestVersion":  "http://103.99.179.200:8200/subgraphs/name/redpacket"
+    "graphURl-latestVersion":  "http://43.135.22.107:8200/subgraphs/name/redpacket"
 },
 "scroll-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
-    "graphURl-latestVersion":  "http://103.99.179.200:8300/subgraphs/name/redpacket"
+    "graphURl-latestVersion":  "http://43.135.22.107:8300/subgraphs/name/redpacket"
 },
 "Optimism-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xCaEC4528A60ca2c47123D7946179011F8B7A7b41",
@@ -28,11 +28,11 @@
 },
 "sepolia-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x4ADE20737690166634a96E1B0524a61051137753",
-    "graphURl-latestVersion":  "http://103.99.179.200:8000/subgraphs/name/merkledistribution"
+    "graphURl-latestVersion":  "http://43.135.22.107:8000/subgraphs/name/merkledistribution"
 },
 "scroll-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x35eca762d594e734e58Fa2838EAA61A359606289",
-    "graphURl-latestVersion":  "http://103.99.179.200:8300/subgraphs/name/merkledistribution"
+    "graphURl-latestVersion":  "http://43.135.22.107:8300/subgraphs/name/merkledistribution"
 },
 "arbitrum-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xF5D3668d94dcF4C2cB7bE81AD43857762695BF78",
@@ -40,6 +40,6 @@
 },
 "zksync-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x7a532BD262291EeA040A3D61d7BeB3220ff06687",
-    "graphURl-latestVersion":  "http://103.99.179.200:8200/subgraphs/name/merkledistribution"
+    "graphURl-latestVersion":  "http://43.135.22.107:8200/subgraphs/name/merkledistribution"
 }
 }
