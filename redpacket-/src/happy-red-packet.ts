@@ -93,7 +93,7 @@ export function handleCreationSuccess(event: CreationSuccessEvent): void {
   redpacket.refunded = false
   redpacket.allClaimed = false
 
-  const tokenId = event.params.token_address.toString();
+  const tokenId = event.params.token_address.toHexString();
 
   let token = Token.load(tokenId);
   if (!token) {
