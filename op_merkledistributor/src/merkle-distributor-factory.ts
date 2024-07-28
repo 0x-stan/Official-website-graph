@@ -48,7 +48,7 @@ export function handleDistributorCreated(event: DistributorCreatedEvent): void {
     distributor.isETH = true
 
   }else{
-    const tokenId = event.params.token_address.toString();
+    const tokenId = event.params.token_address.toHexString();
 
     let token = Token.load(tokenId);
     if (!token) {
