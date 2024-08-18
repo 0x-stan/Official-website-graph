@@ -1,10 +1,10 @@
 {"sepolia-redpacket":{
     "redpacket-address": "0x7aee9933802d9E150e8FdEDc5a022a6d386BB44d",
-    "graphURl-latestVersion":  "http://production_site:8000/subgraphs/name/redpacket_sepolia"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/83930ab/v1/graphql"
 },
 "Optimism-redpacket":{
     "redpacket-address": "0x62E8cf62Dc0B7d7afF9A1A58CeA14976fDB16a85",
-    "graphURl-latestVersion":  "http://production_site:8300/subgraphs/name/redpacket_optimism"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/f9489a8/v1/graphql"
 },
 "scroll-redpacket":{
     "redpacket-address": "0xC90D844679C0eFEB37522c43711D4856d192BD62",
@@ -12,7 +12,7 @@
 },
 "arbitrum-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
-    "graphURl-latestVersion":  "http://production_site:8400/subgraphs/name/redpacket_arbitrum"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/40a09e1/v1/graphql"
 },
 "zksync-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
