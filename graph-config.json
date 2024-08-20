@@ -27,15 +27,15 @@
     "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/14dcae3/v1/graphql"
 },
 "scroll-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0x35eca762d594e734e58Fa2838EAA61A359606289",
-    "graphURl-latestVersion":  "http://production_site:8200/subgraphs/name/merkledistribution_scroll"
+    "merkleDistributorFactory-address": "0xbB66E0685DE1De517B3a3169f460226b59107A46",
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/980429d/v1/graphql"
 },
 "arbitrum-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xA436de894D19Ff26268fCe4350b90fDbb6BB8219",
     "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/76baee8/v1/graphql"
 },
 "zksync-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0x7a532BD262291EeA040A3D61d7BeB3220ff06687",
-    "graphURl-latestVersion":  "http://production_site:8100/subgraphs/name/merkledistribution_zksync"
+    "merkleDistributorFactory-address": "0xbfF99D3Bc98c97AD6486eC114436DeA7D38E063e",
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/561df33/v1/graphql"
 }
 }
