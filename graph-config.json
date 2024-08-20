@@ -8,7 +8,7 @@
 },
 "scroll-redpacket":{
     "redpacket-address": "0xC90D844679C0eFEB37522c43711D4856d192BD62",
-    "graphURl-latestVersion":  "http://production_site:8200/subgraphs/name/redpacket_scroll"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/d3f3a96/v1/graphql"
 },
 "arbitrum-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
@@ -16,7 +16,7 @@
 },
 "zksync-redpacket":{
     "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
-    "graphURl-latestVersion":  "http://production_site:8100/subgraphs/name/redpacket_zksync"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/8689fa6/v1/graphql"
 },
 "Optimism-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0xCaEC4528A60ca2c47123D7946179011F8B7A7b41",
