@@ -19,20 +19,20 @@
     "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/8689fa6/v1/graphql"
 },
 "Optimism-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0xCaEC4528A60ca2c47123D7946179011F8B7A7b41",
-    "graphURl-latestVersion":  "http://production_site:8300/subgraphs/name/merkledistribution_optimism"
+    "merkleDistributorFactory-address": "0x3fD1AB4577b80f184de4E64C980eBA019b6C6D8E",
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/0238778/v1/graphql"
 },
 "sepolia-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0x4ADE20737690166634a96E1B0524a61051137753",
-    "graphURl-latestVersion":  "http://production_site:8000/subgraphs/name/merkledistribution_sepolia"
+    "merkleDistributorFactory-address": "0xb0B8394c1365D0caE674b3254B1e4A19aAEddc5A",
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/14dcae3/v1/graphql"
 },
 "scroll-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x35eca762d594e734e58Fa2838EAA61A359606289",
     "graphURl-latestVersion":  "http://production_site:8200/subgraphs/name/merkledistribution_scroll"
 },
 "arbitrum-MerkleDistributorFactory":{
-    "merkleDistributorFactory-address": "0xF5D3668d94dcF4C2cB7bE81AD43857762695BF78",
-    "graphURl-latestVersion":  "http://production_site:8400/subgraphs/name/merkledistribution_arbitrum"
+    "merkleDistributorFactory-address": "0xA436de894D19Ff26268fCe4350b90fDbb6BB8219",
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/76baee8/v1/graphql"
 },
 "zksync-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x7a532BD262291EeA040A3D61d7BeB3220ff06687",
