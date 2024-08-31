@@ -16,7 +16,7 @@
 },
 "zksync-redpacket":{
     "redpacket-address": "0x0Aa38Cffc6A72e6349c8bfF22497AeC4A02fc75c",
-    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/8689fa6/v1/graphql"
+    "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/93a81ef/v1/graphql"
 },
 "Optimism-MerkleDistributorFactory":{
     "merkleDistributorFactory-address": "0x3fD1AB4577b80f184de4E64C980eBA019b6C6D8E",
