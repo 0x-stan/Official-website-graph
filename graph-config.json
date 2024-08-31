@@ -15,7 +15,7 @@
     "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/40a09e1/v1/graphql"
 },
 "zksync-redpacket":{
-    "redpacket-address": "0x075FE5D2CD5D22D744Da94d81658143abf49D589",
+    "redpacket-address": "0x0Aa38Cffc6A72e6349c8bfF22497AeC4A02fc75c",
     "graphURl-latestVersion":  "https://indexer.bigdevenergy.link/8689fa6/v1/graphql"
 },
 "Optimism-MerkleDistributorFactory":{
